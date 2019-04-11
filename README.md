@@ -1,7 +1,5 @@
 # RSA Public/Private Cryptosystem
 
-## Introduction
-
 In this project, an RSA public/private cryptosystem was built and was used create digital certificates and authentication.
 
 There are three users: Alice, Bob and Trent. Alice will generate her public/private key pairs, and Trent will issue a digital certificate to Alice. After this, Alice will authenticate herself to Bob.
