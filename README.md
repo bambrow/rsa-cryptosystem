@@ -16,13 +16,7 @@ This program was written under Java 8. It can be run on any machine that support
 
 ## Compile & Run
 
-To compile the program, first locate into the current folder using `cd`. Then simply `unzip` the `project.zip`:
-
-```
-unzip project.zip
-```
-
-Now a folder named project appears. Next step to compile the program:
+To compile the program, simply run:
 
 ```
  cd project
